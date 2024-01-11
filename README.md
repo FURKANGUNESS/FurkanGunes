@@ -1,15 +1,13 @@
 <h1 align="center">Merhaba 👋, Benim Adım Furkan GÜNEŞ</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌍İstanbul'da yaşıyorum [https://www. delta-yazilim.com/](https://www.delta-yazilim.com/)
+- ✉️ Bana [gunes.furkan34@hotmail.com adresinden ulaşabilirsiniz. ](gunes.furkan34@hotmail.com)
 
-- ✉️ [gunes.furkan34@hotmail.com](gunes.furkan34@hotmail.com) adresinden bana ulaşabilirsiniz
+- 🚀 Şu anda [DELTA SOFTWARE INC.](https://www.delta-yazilim.com/) üzerinde çalışıyorum
 
-- 🚀 Ben' şu anda [DELTA SOFTWARE INC.](https://www.delta-yazilim.com/) üzerinde çalışıyorum
-
-<h3 align="left">Benimle iletişime geç:</h3>
-<p align="left">
-<a href = "https://linkedin.com/in/www.linkedin.com/in/ furkan-güneş-71b41b2a9" target = "blank"><img align = "center" src = "https://raw.githubusercontent" .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ furkan-güneş-71b41b2a9" height= "30" width="40" /></a>
+<h3 align="left">Benimle iletişime geç: </h3>
+<p align = "left">
+<a href = "https://linkedin.com/in/www.linkedin.com/in/ furkan-güneş-71b41b2a9" target = "blank"><img align ="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "www. linkedin.com/in/ furkan-güneş-71b41b2a9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
