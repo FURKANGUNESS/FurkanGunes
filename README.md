@@ -4,8 +4,7 @@ Hi 👋 My name is Furkan GÜNEŞ
 Full Stack Developer
 --------------------------------------
 
-I am currently CTO of a startup company. I am also teaching courses on Udemy. My main goal is to influence people about programming.
-
+I am currently working as a Full Stack Developer in a company that produces Dealer Management System, ERP and CRM Software.
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [gunes.furkan34@hotmail.com](gunes.furkan34@hotmail.com)
 * 🚀  I'm currently working on [DELTA SOFTWARE INC.](https://www.delta-yazilim.com/) üzerinde çalışıyorum.
