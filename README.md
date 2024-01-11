@@ -55,6 +55,7 @@ I am currently working as a Full Stack Developer in a company that produces Deal
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+  <a href = "https://spring.io/" target = "_blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/springio/springio- icon.svg" alt = "spring" width = "40" height = "40"/> </a>
 </p>
 
 
