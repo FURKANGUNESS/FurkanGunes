@@ -1,7 +1,7 @@
 Hi 👋 My name is Furkan GÜNEŞ
 ===============================
 
-Full Stack Developer
+Software Developer
 --------------------------------------
 
 I am currently working as a Full Stack Developer in a company that produces Dealer Management System, ERP and CRM Software.
